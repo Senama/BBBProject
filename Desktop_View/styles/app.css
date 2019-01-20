@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.default-border{
+    border:1px solid #724CF9;
+}
+
+.helvetica{
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+.nav-bar{
+    background-color: #bdc8d6;
+    padding: 10px 0px 10px 10px
+}
+
+.nav-bar-title{
+    font-size: 30px;
+}
+
+.toolbar-title{
+    font-size: 20px;
+}
+
+.desktop-title{
+    font-size: 20px;
+}
+
+.dock-title{
+    font-size: 20px;
+}
+
+
+
+
+

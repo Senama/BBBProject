@@ -9,19 +9,20 @@ body {
     background-color: #cccccc;
     background-repeat: no-repeat;
     background-attachment: fixed;
-   background-position: center;
-  background-size: cover; 
+    background-position: center;
+    background-size: cover; 
 }
 
 .card-color {
-background-color: transparent;
-border: transparent;
+    background-color: transparent;
+    border: transparent;
 }
 
 .card-text-update{
-color: white;
-font-size: 13px;
-text-align: center;
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
 }
 
 .card-body-update{
@@ -66,10 +67,5 @@ text-align: center;
 .folderimg {
     position: absolute;
     width: 75px;
-    height: 70px;
-   
-}
-
-.desktop-content {
-    display: inline;
+    height: 70px;   
 }

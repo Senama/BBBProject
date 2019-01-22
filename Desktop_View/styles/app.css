@@ -4,6 +4,31 @@
     padding: 0px;
 }
 
+body {
+    background-image: url("https://technology.inquirer.net/files/2017/10/the-most-famous-windows-wallpaper-ever-turns-20-505668-2.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+
+.card-color {
+    background-color: transparent;
+    border: transparent;
+}
+
+.card-text-update{
+    color: white;
+    font-size: 13px;
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.card-body-update{
+    padding: 2px;
+}
+
 .default-border{
     border:1px solid #724CF9;
 }
@@ -33,7 +58,14 @@
     font-size: 20px;
 }
 
+.dock {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
-
-
-
+.folderimg {
+    position: absolute;
+    width: 75px;
+    height: 70px;   
+}

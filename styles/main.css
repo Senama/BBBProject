@@ -1,0 +1,52 @@
+/*
+======================================================NAV CSS
+*/
+.navbar-1 {
+    background-color: #000000;
+  }
+  
+  .btn {
+    background-color: #0267FF;
+    color: white;
+  
+  }
+  
+  .navbar-2 {
+    background-color: #0267FF;
+    min-height: 200px;
+  
+    
+  }
+  
+  .link{
+    /* display: block; */
+    color: white;
+    /* cursor: pointer;
+    font-weight: 400;
+    transition: all 0.35s linear;
+    background: linear-gradient(to bottom, rgba(#0267ff, 1) 0%, rgba(#0267FF, 1) 98%); */
+  }
+
+/*
+======================================================MAIN CSS
+*/
+
+
+/* .myPad{
+    padding-bottom: 50px;
+} */
+.myBanner{
+    max-height: 700px;
+}
+.fade{
+    opacity: 0;
+    transition: all .65s ease;
+}
+.fade-in {
+    transition: all .65s ease;
+    opacity: 1;
+}
+.primBlue{
+    background-color: #0145ab;
+}
+
